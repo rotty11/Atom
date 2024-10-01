@@ -37,7 +37,7 @@ To build the application, a makefile is provided.
 
 #### Conferences
 
-1. J.J. Escobar, J. López-Rodríguez, D. García-Gil, R. Morcillo-Jiménez, B. Prieto, A. Ortiz and D. Kimovski. *Analysis of a Parallel and Distributed BPSO Algorithm for EEG Classification: Impact on Energy, Time and Accuracy*. In: **11th International Conference on Bioinformatics and Biomedical Engineering. IWBBIO'2024**. Gran Canaria, Spain: Springer, July 2024, pp. 77-90. DOI: [10.1007/978-3-031-64629-4_6](https://ddoi.org/10.1007/978-3-031-64629-4_6).
+1. J.J. Escobar, J. López-Rodríguez, D. García-Gil, R. Morcillo-Jiménez, B. Prieto, A. Ortiz and D. Kimovski. *Analysis of a Parallel and Distributed BPSO Algorithm for EEG Classification: Impact on Energy, Time and Accuracy*. In: **11th International Conference on Bioinformatics and Biomedical Engineering. IWBBIO'2024**. Gran Canaria, Spain: Springer, July 2024, pp. 77-90. DOI: [10.1007/978-3-031-64629-4_6](https://doi.org/10.1007/978-3-031-64629-4_6).
 
 ## Funding
 
