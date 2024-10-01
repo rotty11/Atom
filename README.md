@@ -35,9 +35,9 @@ To build the application, a makefile is provided.
 
 ## Output
 
-* Average and best classification rate
-* Best feature subset
-* Execution time
+* Average and best classification rate.
+* Best feature subset.
+* Execution time.
 
 ## Publications
 
