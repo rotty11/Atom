@@ -18,7 +18,7 @@ Atom requires a GCC compiler. It also depends on the following APIs and librarie
 
 ## Usage
 
-To build the application, a makefile is provided.
+To build the application, a Makefile and Dockerfile are provided.
 
 * Compile with `make -j N_FEATURES=3600`.
 * Run with `mpirun --bind-to none --map-by node --host [LIST_OF_HOSTS] ./pso [ARGS]`.
