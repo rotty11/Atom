@@ -33,6 +33,12 @@ To build the application, a makefile is provided.
   1. `sI`: Enable the use of OpenMP SIMD directive.
   1. `pC`: Probability that the component of the position vector takes value 1.
 
+## Output
+
+* Average and best classification rate
+* Best feature subset
+* Execution time
+
 ## Publications
 
 #### Conferences
