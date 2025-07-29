@@ -8,7 +8,7 @@ Atom is a parallel and distributed Binary Particle Swarm Optimization (BPSO) alg
 
 ## Author
 
-Juan José Escobar ([jjescobar@ugr.es](mailto:jjescobar@ugr.es)) and Jesús López Rodríguez ([jlopezpeque@gmail.com](mailto:jlopezpeque@gmail.com))
+Juan José Escobar ([jjescobar@ugr.es](mailto:jjescobar@ugr.es)) and Jesús López Rodríguez ([jlopezpeque@gmail.com](mailto:jlopezpeque@gmail.com)).
 
 ## Requirements
 
