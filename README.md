@@ -49,7 +49,7 @@ To build the application, a Makefile and Dockerfile are provided.
 
 This work has been funded by:
 
-* University of Granada under grant number PPJIA-2023-25.
+* *University of Granada* under grant number PPJIA-2023-25.
 * Spanish *Ministerio de Ciencia, Innovación y Universidades* under grants number PID2022-137461NB-C32 and PID2020-119478GB-I00.
 * Spanish *Ministerio de Universidades* as part of the program of mobility stays for professors and researchers in foreign higher education and research centers under grant number CAS22/00332.
 * *European Regional Development Fund (ERDF)*.
